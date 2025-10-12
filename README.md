@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# Secret seed setter
+
+This mod allows you to override the random seed on world creation and make the world always set your custom seed
 
 ## Setup
+Put a file called customseed.txt in .minecraft/config/customseed.txt
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+It must contain only the number of the seed you want to set such as:
+```
+123456789
+```
+If you manually set a seed on world creation it wont override that, it only applies to random seeds (blank seed box)
