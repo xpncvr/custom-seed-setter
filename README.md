@@ -2,7 +2,7 @@
 
 This mod allows you to override the random seed on world creation and make the world always set your custom seed
 
-Download on modrinth [here](https://modrinth.com/mod/custom-seed-setter)
+**[Download on modrinth](https://modrinth.com/mod/custom-seed-setter/versions)**
 
 ## Setup
 Put a file called customseed.txt in .minecraft/config/customseed.txt
