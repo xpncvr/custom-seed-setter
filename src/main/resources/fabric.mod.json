@@ -8,8 +8,8 @@
 		"xpncvr"
 	],
 	"contact": {
-		"homepage": "https://github.com/xpncvr/secretseedsetter",
-		"sources": "https://github.com/xpncvr/secretseedsetter"
+		"homepage": "https://github.com/xpncvr/custom-seed-setter/",
+		"sources": "https://github.com/xpncvr/custom-seed-setter/"
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/secretseedsetter/icon.png",
@@ -23,7 +23,7 @@
 		"secretseedsetter.mixins.json"
 	],
 	"depends": {
-		"minecraft": "~1.21.4",
+		"minecraft": "~26.3",
 		"java": ">=21"
 	}
 }
