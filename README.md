@@ -5,7 +5,7 @@ This mod allows you to override the random seed on world creation and make the w
 **[Download on modrinth](https://modrinth.com/mod/custom-seed-setter/versions)**
 
 ## Setup (REQUIRED)
-Put a file called customseed.txt in .minecraft/config/customseed.txt
+Put a file called `customseed.txt` in `.minecraft/config/customseed.txt`
 
 The game will crash if you do not provide this file.
 
